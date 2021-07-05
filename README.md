@@ -1,2 +1,3 @@
-# activity-feed-public
+# Neat Activity Feed 
+
 Releases of the Neat App.
